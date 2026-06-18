@@ -1,4 +1,4 @@
-I am going to artificially create a merge conflict using this text file
+CHANHES CHANGES I am going to artificially create a merge conflict using this text file
 
 
 creating  from workshopfeb branch
